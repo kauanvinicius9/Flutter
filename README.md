@@ -1,12 +1,14 @@
+# Flutter + Dart
+
+###
+
 - https://flutter.dev/;
-- install flutter manually;
-- flutter_windows... link zip;
-- Editar nas variáveis de ambiente - variáveis de ambiente, sistema, path..., 2x path, novo : C:\flutter\bin, OK;
-- Extração de pasta;
-- Jogar a pasta no disco local C:\;
-- Baixar Flutter nas extensões;
+- Install **Flutter** manually;
+- `flutter_windows...`;
+- Environment variables - environment variables, system, path..., 2x path, new : `C:\flutter\bin`, **OK**;
+- `ZIP` folder extraction;
+- Local Disk `C:\`;
+- Flutter in **VSCode** extensions;
 - New File;
-- Deixar tudo em uma pasta oficial;
-- É possível codar no Prompt (CMD, POWERSHELL...);
-- C#, C, PYTHON, JAVA = DART;
-- Startar: CTRL + J = Terminal - dart nomedoarquivo.dart.
+- `CMD`, `POWERSHEL`...;
+- **Start**: CTRL + J = Terminal - dart `nameoffile.dart`.
