@@ -43,9 +43,3 @@ void main() {
 
   }
 }
-
-// // Função não utilizada
-// void unusedFunction() {
-//   print('This function is not used.');
-
-// }

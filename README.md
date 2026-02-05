@@ -1,14 +1,16 @@
-# Flutter + Dart
+# flutter_application
 
-###
+A new Flutter project.
 
-- https://flutter.dev/;
-- Install **Flutter** manually;
-- `flutter_windows...`;
-- Environment variables - environment variables, system, path..., 2x path, new : `C:\flutter\bin`, **OK**;
-- `ZIP` folder extraction;
-- Local Disk `C:\`;
-- Flutter in **VSCode** extensions;
-- New File;
-- `CMD`, `POWERSHEL`...;
-- **Start**: CTRL + J = Terminal - dart `nameoffile.dart`.
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
